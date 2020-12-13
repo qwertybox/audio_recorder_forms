@@ -1,0 +1,10 @@
+C:\Mine\IT\Audio_Recorder_Forms\Audio_Recorder_Forms\bin\Debug\Audio_Recorder_Forms.exe.config
+C:\Mine\IT\Audio_Recorder_Forms\Audio_Recorder_Forms\bin\Debug\Audio_Recorder_Forms.exe
+C:\Mine\IT\Audio_Recorder_Forms\Audio_Recorder_Forms\bin\Debug\Audio_Recorder_Forms.pdb
+C:\Mine\IT\Audio_Recorder_Forms\Audio_Recorder_Forms\obj\Debug\Audio_Recorder_Forms.csprojAssemblyReference.cache
+C:\Mine\IT\Audio_Recorder_Forms\Audio_Recorder_Forms\obj\Debug\Audio_Recorder_Forms.Form1.resources
+C:\Mine\IT\Audio_Recorder_Forms\Audio_Recorder_Forms\obj\Debug\Audio_Recorder_Forms.Properties.Resources.resources
+C:\Mine\IT\Audio_Recorder_Forms\Audio_Recorder_Forms\obj\Debug\Audio_Recorder_Forms.csproj.GenerateResource.cache
+C:\Mine\IT\Audio_Recorder_Forms\Audio_Recorder_Forms\obj\Debug\Audio_Recorder_Forms.csproj.CoreCompileInputs.cache
+C:\Mine\IT\Audio_Recorder_Forms\Audio_Recorder_Forms\obj\Debug\Audio_Recorder_Forms.exe
+C:\Mine\IT\Audio_Recorder_Forms\Audio_Recorder_Forms\obj\Debug\Audio_Recorder_Forms.pdb
